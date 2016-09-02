@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <title>App1</title>
+    <link href="lib/winjs-4.0.1/css/ui-light.css" rel="stylesheet" />
+    <script src="lib/winjs-4.0.1/js/base.js"></script>
+    <script src="lib/winjs-4.0.1/js/ui.js"></script>
+    <link href="css/default.css" rel="stylesheet" />
+   
+</head>
+<body class="win-type-body" >
+    <select id="date_select1"></select>
+    <select id="date_select" >
+
+    </select>
+    <button id="buttooon2">Pobierz daty</button>
+    <div align="center">
+        <progress id="progres"> </progress>
+    </div>
+
+
+
+
+    <table id="table1" class="table table-striped table-hover " align="center">
+        <tbody id="myTemplate" class="div-display-items" data-win-control="WinJS.Binding.Template">
+            <tr>
+                <td width="150px" data-win-bind="innerText:currencyName"></td>
+                <td width="150px" data-win-bind="innerText:currencyCode"></td>
+                <td width="150px" data-win-bind="innerText:averageRate"></td>
+               
+            </tr>
+        </tbody>
+    </table>
+
+    <table id="table2" class="table table-striped table-hover " align="center">
+        <thead>
+            <tr><th width="150px">Nazwa</th><th width="150px">Kod</th><th width="150px">Kurs średni</th></tr>
+        </thead>
+        <tbody id="myTableBody"></tbody>
+    </table>
+
+    <script src="js/main.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-M3QEI97</Machine>
+    <WindowsUser>LUK</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>adbb8450-b4d5-4a6c-928c-fde36707b032</PackageIdentityName>
+    <PackageIdentityPublisher>CN=LUK</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\LUK\Desktop\moje\App1\App1\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>6E757F50D239C011BA60474E5E45C6F7A20EC015BB84DDFC0E2122A9355F57A0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>adbb8450-b4d5-4a6c-928c-fde36707b032_1.0.0.0_neutral__qp6zcp8ks6pg8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>adbb8450-b4d5-4a6c-928c-fde36707b032_qp6zcp8ks6pg8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>adbb8450-b4d5-4a6c-928c-fde36707b032</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=LUK</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\LUK\Desktop\moje\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-27T11:11:26.403</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-08-19T09:43:27.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\page.html">
+      <PackagePath>page.html</PackagePath>
+      <Modified>2016-09-02T14:51:37.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-07-20T17:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T17:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T17:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T17:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T17:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T17:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T17:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\js\canvasjs.min.js">
+      <PackagePath>js\canvasjs.min.js</PackagePath>
+      <Modified>2016-06-27T11:06:24.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-08-24T17:37:13.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\js\main2.js">
+      <PackagePath>js\main2.js</PackagePath>
+      <Modified>2016-08-19T09:54:42.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-04-18T16:42:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-04-18T16:42:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-06-27T07:30:53.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-04-18T16:42:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-04-18T16:42:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LUK\Desktop\moje\App1\App1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-27T11:11:26.155</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
